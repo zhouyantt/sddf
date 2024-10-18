@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f2e6; /* 淡绿色背景 */
+    color: #2e4c2e; /* 墨绿色文本 */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2e4c2e; /* 墨绿色头部背景 */
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    background-color: #d9f0d9; /* 更淡的绿色区域 */
+    padding: 15px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #4f704f; /* 深一些的绿色标题 */
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #2e4c2e; /* 墨绿色底部背景 */
+    color: white;
+}
